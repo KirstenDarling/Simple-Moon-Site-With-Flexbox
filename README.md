@@ -1,6 +1,6 @@
 # Simple Moon Site with Flexbox
 
-### View the [live project here.](https://kirstendarling.github.io/flexbox-moon-project/)
+### View the [live project here.](https://kirstendarling.github.io/Simple-Moon-Site-With-Flexbox/)
 
 ### Screenshot
 
